@@ -33,7 +33,7 @@
     {
       "Name": "Senthamil Selvan",
       "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
-      "ImageUrl": "~/images/sen.jpg",
+      "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Senthamil_V.jpg?raw=true",
       "Social": {
         "Blog": "http://altfo.wordpress.com",
         "Twitter": "http://www.twitter.com/altfo"
@@ -42,27 +42,9 @@
   ],
   "Sponsors": [
     {
-      "Name": "Chef",
-      "Image": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/chef-logo.png?raw=true",
-      "Link": "https://www.chef.io/",
-      "Category": ""
-    },
-    {
-      "Name": "KEMP",
-      "Image": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Kemp-hi.png?raw=true",
-      "Link": "https://kemptechnologies.com/",
-      "Category": ""
-    },
-    {
-      "Name": "Knofx",
-      "Image": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Konfx-logo.png?raw=true",
-      "Link": "http://www.konfx.io/",
-      "Category": ""
-    },
-    {
-      "Name": "Sapien",
-      "Image": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/SAPIEN.jpg?raw=true",
-      "Link": "https://www.sapien.com/",
+      "Name": "Rhipe",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/rhipe.png?raw=true",
+      "Link": "https://www.rhipe.com/",
       "Category": ""
     }
 
@@ -72,401 +54,315 @@
   ],
   "Tracks": [
     {
-      "Day": "27 October 2017",
-      "Name": "DevOps & Cloud Track",
+      "Day": "23 October 2018",
+      "Name": "Business",
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:30 AM - 9:30 AM",
-          "Title": "Keynote: IT Transformation – Jeffrey Snover, Lead Architect for Azure Stack and Windows Server Software Defined Datacenter. Microsoft Technical Fellow. Inventor of PowerShell.",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "Opening and Key Note"
+        },
+        {
+          "SessionId": "BUS1",
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": "Transforming your organization into a Digital Workplace",
           "Speaker": {
-            "Name": "Jeffrey Snover",
-            "Description": "Jeffrey Snover is a Technical Fellow at Microsoft and the Chief Architect for the Enterprise Cloud Group which includes Azure Stack, Windows Server, System Center and Operations Management Suite. Snover is the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and command line shell. Snover joined Microsoft in 1999 as divisional architect for the Management and Services Division, providing technical direction across Microsoft's management technologies and products. Snover has over 30 years of industry experience with a focus on management technologies and solutions. He was an architect in the office of the CTO at Tivoli and a development manager at NetView. He has worked also as a consulting engineer and development manager at DEC, where he led various network and systems management projects. Snover is a frequent speaker at industry and research conferences on a variety of cloud, management and language topics.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Jeffrey.png?raw=true",
+            "Name": "Vignesh Ganesan",
+            "Description": "Vignesh Ganesan is a SharePoint and Office 365 Technical Manager holding 7.8 years of experience in various technologies such as SharePoint Server, Office 365 , Windows 10 and Cloud Security  . He's a big fan of Microsoft Cloud technologies and mainly focuses on Digital Transformation.As an IT professional Vignesh is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites and magazines.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Vignesh_Ganesan.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/jsnover"
+              "Twitter": "http://www.twitter.com/"
             }
           }
         },
         {
-          "SessionId": "Common2",
-          "Time": "9:45 AM - 10:45 AM",
-          "Title": "Automate & Configure at scale with Azure Management Services",
+          "SessionId": "BUS2",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "Delivering tangible business value with Office 365",
           "Speaker": {
-            "Name": "Michael Greene",
-            "Description": "Microsoft Principal Program Manager, Azure Configuration and Automation Management System / PowerShell Language",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/greene.jpeg?raw=true",
+            "Name": "Rico Ho",
+            "Description": "Rico is a Lotus compete specialist that has helped businesses to migrate thousands of business applications to SharePoint using a low code cloud developer tool called Webparts360.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Rico_Ho.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/migreene"
+              "Twitter": "http://www.twitter.com/"
+            }
+          }
+        },
+        {
+          "SessionId": "BUS3",
+          "Time": "12:00 PM - 12:45 PM",
+          "Title": "Accelerate success and time-to-value for Microsoft 365 with best practices from the field",
+          "Speaker": {
+            "Name": "Patrick Guimonet",
+            "Description": "Patrick has a 20+ years’ experience as Enterprise Solutions Architect. He has a successful track record of technical expertise for Office 365, SharePoint, SQL Server and Oracle RDBMS. He is a former Microsoft employee in France. He has been working for his own company Abalon, specialized on SharePoint and Office 365 for 7+ years.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Patrick_Guimonet.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/"
             }
           }
         },
         {
           "SessionId": "Common3",
-          "Time": "11:00 AM - 12:00 PM",
-          "Title": "PowerShell 6, Community Platform for Hybrid Cloud",
+          "Time": "01:00 PM - 01:45 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "BUS4",
+          "Time": "02:00 PM - 02:45 PM",
+          "Title": "The 4th Dimensional Meeting",
           "Speaker": {
-            "Name": "Steve Lee",
-            "Description": "Principal Software Engineer Manager for PowerShell",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/stevelee.jpg?raw=true",
+            "Name": "James Ooi",
+            "Description": "James has 12 years’ experience working with Microsoft Core Infrastructure solutions, both On-Prem & Cloud Services. He is also a past winner of Microsoft MVP awards.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/James_Ooi.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/"
+            }
+          }
+        },
+        {
+          "SessionId": "BUS5",
+          "Time": "03:00 PM - 03:45 PM",
+          "Title": "Bots - Changing the way we engage with technology",
+          "Speaker": {
+            "Name": "Kirti Prajapati",
+            "Description": "As a Consultant Kirti works with clients to develop and deploy comprehensive solutions on SharePoint and Office 365. As an active community member, Kirti is associated with several professional communities, speaks and organizes Microsoft sponsored events in India and organizing free technical workshops on SharePoint and Office 365. Kirti writes his personal blog and he believes that Knowledge is power and sharing knowledge is empowering!",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Kirti_Prajapati.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/"
+            }
+          }
+        },
+        {
+          "SessionId": "BUS6",
+          "Time": "04:00 PM - 04:45 PM",
+          "Title": "All about documents in O365 and SharePoint",
+          "Speaker": {
+            "Name": "Sebastien Paulet",
+            "Description": "Sebastien has worked 12 years as consultant, dev, tech lead, project manager, trainer, team leader, speaker around SharePoint and O365 technologies and fond of topics around #documentation, #archiving, #lean, #scrum, #roi, #ergonomy",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Sebastien_PAULET.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/"
+            }
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "05:00 PM - 05:30 PM",
+          "Title": "Wrap up & Panel Discussion"
+        }
+      ]
+    },
+    {
+      "Day": "23 October 2018",
+      "Name": "IT-Pro",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "Opening and Key Note"
+        },
+        {
+          "SessionId": "ITP1",
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": "A Deep Dive into Microsoft 365 Security",
+          "Speaker": {
+            "Name": "Muditha Chathuranga",
+            "Description": "Muditha is a Technical Consultant working for Infront Consulting Group who brings years of experiences in different business domains in IT. At Infront Consulting Group, he primarily focuses on cloud-based enterprise collaboration and information security using Microsoft technologies such as Office 365, EM+S, and Azure. His expertise expands beyond Microsoft realm and he's also experienced in many Open Source technologies as well.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Muditha_Chathuranga.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/"
+            }
+          }
+        },
+        {
+          "SessionId": "ITP2",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "Single Sign On and Multi Factor Authentication with Azure AD",
+          "Speaker": {
+            "Name": "Abdul Rasheed Feroz Khan",
+            "Description": "Rasheed is a Microsoft MVP on Azure from CodeSizzler who has worked with a number of MNCs.  He has a good command of Azure and emerging technologies.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Abdul_Rasheed_Feroz_Khan.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/"
+            }
+          }
+        },
+        {
+          "SessionId": "ITP3",
+          "Time": "12:00 PM - 12:45 PM",
+          "Title": "Data Leakage Prevention and Rights Management in Office365",
+          "Speaker": {
+            "Name": "Kay Suet Yee",
+            "Description": "Sabrina specializes on Microsoft Office 365 security, network security, Advanced Threat Protection and other security related technologies.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Kay_Suet_Yee.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/Steve_MSFT"
             }
           }
         },
         {
-          "SessionId": "Common4",
-          "Time": "12:00 PM - 01:00 PM",
+          "SessionId": "Common3",
+          "Time": "01:00 PM - 01:45 PM",
           "Title": "Lunch"
         },
         {
-          "SessionId": "IOT01",
-          "Time": "01:00 PM - 02:00 PM",
-          "Title": "What the heck is Microsoft Graph? and why should I care?",
+          "SessionId": "ITP4",
+          "Time": "02:00 PM - 02:45 PM",
+          "Title": "Migrating to SharePoint Online - Real-life Experiences",
           "Speaker": {
-            "Name": "Steven Hosking",
-            "Description": "Having spent over 15 years in the IT industry primarily supporting and managing System Centre products, Steven Hosking has continually been proven as passionate subject matter expert. He is the founder of the Sydney System Centre and Infrastructure group, where he leads the community in exploring the Microsoft System Centre suite of products.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/svenvan.jpg?raw=true",
+            "Name": "Rene Modery",
+            "Description": "Rene is a Microsoft Office Servers and Services MVP, working as a Solutions Architect (SharePoint, Office 365, Azure, AWS) in Singapore. For more than 10 years, Rene has lived and worked in Europe and Asia Pacific. The main focus of his work lies on SharePoint, Office 365, and Azure. He is generally interested in helping companies get more value out of their SharePoint and cloud investments.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Rene_Modery.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/OnPremCloudGuy"
+              "Twitter": "http://www.twitter.com/"
             }
           }
         },
         {
-          "SessionId": "IOT2",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "Green is Good Red is Bad - Turning your checklists into Pester Tests",
+          "SessionId": "ITP5",
+          "Time": "03:00 PM - 03:45 PM",
+          "Title": "How your SharePoint deployment can benefit from Azure capabilities",
           "Speaker": {
-            "Name": "Rob Sewell",
-            "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Rob Sewell.png?raw=true",
+            "Name": "Manoj V Karunarathne",
+            "Description": "Manoj is a passionate IT Professional who has over 9 years of experience in Microsoft technology stack mainly in SharePoint, Windows Server and Office 365. He has experienced 4 generations of SharePoint. Being a MVP under Office Servers and Services category, he is very passionate about community works. Actively engaged in volunteer speaking events in Sri Lanka, Singapore, USA and the president, organizer and a speaker of Brunei Cloud user Group.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Manoj_V_Karunarathne.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/sqldbawithbeard"
+              "Twitter": "http://www.twitter.com/"
             }
           }
         },
         {
-          "SessionId": "Common6",
-          "Time": "3:30 PM - 4:00 PM",
-          "Title": "Break"
-        },
-        {
-          "SessionId": "IOT03",
-          "Time": "4:00 PM - 5:00 PM",
-          "Title": "Designing azure Resource Manager Templates",
+          "SessionId": "ITP6",
+          "Time": "04:00 PM - 04:45 PM",
+          "Title": "IOT for Beginners and IT Pros",
           "Speaker": {
-            "Name": "Ritesh Modi ",
-            "Description": "Architect, Senior Evangelist, Cloud Architect, published author, Speaker and known leader for his contribution towards Data center, Azure, Powershell, Blockchain, Ethereum, Solidity, Bots, Cognitive Services, DevOps, Business intelligence and datacenter automation. Author of 'DevOps with Windows Server 2016' book available on Amazon and B&N. Co-authored book titled “Introducing Windows Server 2016 technical Preview” along with Windows Server team. Spoken at multiple conferences including TechEd and PowerShell Asia conference, conducts lots of internal training, meetups, sessions and published author for MSDN magazine. Having more than a decade of experience in building and deploying enterprise solutions for customers. Blogs @ https://automationnext.wordpress.com and  tweets @ #automationnext",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Ritesh Modi.jpg?raw=true",
+            "Name": "Kishore Chowdary",
+            "Description": "Kishore Chowdary is an International speaker who is also a Lead Training Associate in CodeSizzler. Kishore Chowdary is a part of C-Sharp Corner community where he shares his knowledge via articles and videos. He also speaks in local tech groups and he is also a part of Microsoft Azure Vidyapeeth in which he handles technical webinars for techies across the globe.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Kishore_Chowdary.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/automationnext"
             }
           }
         },
         {
-          "SessionId": "IOT4",
-          "Time": "5:15 PM - 6:15 PM",
-          "Title": "PowerShell for SharePoint Online - Making SharePoint Admins feel loved again",
-          "Speaker": {
-            "Name": "Rick Taylor",
-            "Description": "Rick Taylor is a SharePoint Architect and has assisted numerous, large companies in their implementations in high profile industries such as Defence, Financial, Manufacturing, and Health Care. He is a published author, co-author, and contributing author (Microsoft Office SharePoint Server 2007 Administrator’s Companion by MS Press and SharePoint Server 2010 Administrator’s Companion) by MSPress. Rick worked for Microsoft in the Business Productivity Online Services division as a member of the SharePoint Platform Architecture Team, and was a Senior Consultant on the OpsCon Team. He is a Senior DevOps Engineer where he specializes in Migration, Compliance, Governance Enforcement, and Process Automation. Rick is an avid Triathlete (Clydesdale class), practices Bikram Yoga, enjoys playing chess and is active in the Boy Scouts of America.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/RickTaylor.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/slkrck"
-            }
-          }
-        },
-        {
-          "SessionId": "Common8",
-          "Time": "6:15 PM - 6:30 PM",
-          "Title": "Day Close-up"
-        },
-        {
-          "SessionId": "Common9",
-          "Time": "6:30 PM - 10:00 PM",
-          "Title": "Networking Event - FREE BEER!!"
+          "SessionId": "Common6",
+          "Time": "05:00 PM - 05:30 PM",
+          "Title": "Wrap up & Panel Discussion"
         }
       ]
     },
     {
-      "Day": "27 October 2017",
-      "Name": "DevOps & Security Track",
+      "Day": "23 October 2018",
+      "Name": "Developers",
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:30 AM - 9:30 AM",
-          "Title": "Keynote: IT Transformation – Jeffrey Snover, Lead Architect for Azure Stack and Windows Server Software Defined Datacenter. Microsoft Technical Fellow. Inventor of PowerShell."
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Registration"
         },
         {
           "SessionId": "Common2",
-          "Time": "9:45 AM - 10:45 AM",
-          "Title": "Automate & Configure at scale with Azure Management Services"
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "Opening and Key Note"
         },
         {
-          "SessionId": "Common3",
-          "Time": "11:00 AM - 12:00 PM",
-          "Title": "PowerShell 6, Community Platform for Hybrid Cloud"
-        },
-        {
-          "SessionId": "Common4",
-          "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
-        },
-        {
-          "SessionId": "SEC01",
-          "Time": "01:00 PM - 02:00 PM",
-          "Title": "PowerShell - Microsoft's Incident Response Language",
+          "SessionId": "DEV1",
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": "Automating Processes with SharePoint, Flow and Teams",
           "Speaker": {
-            "Name": "Jared Atkinson",
-            "Description": "Jared Atkinson is the Technical Lead - Adversary Detection for Specter Ops. Before Specter Ops, Jared spent two years with Veris Group’s Adaptive Threat Division and four years leading incident response missions for the U.S. Air Force Hunt Team, detecting and removing Advanced Persistent Threats on Air Force and DoD networks. Passionate about PowerShell and the Open Source community, Jared is the lead developer of the Power Forensics project (an open source forensics framework for PowerShell) and maintains a DFIR focused blog. In addition to being awarded Microsoft “Most Valuable Professional” (MVP) for his work in PowerShell, Jared has spoken at numerous industry conferences including the PowerShell and DevOps Global Summit, PSConfEU, Derbycon, 44CON, SANS DFIRSummit, and BSidesDC.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/JaredAtkinson.jpg?raw=true",
+            "Name": "Sylver SCHORGEN",
+            "Description": "Sylver is an Office 365 and SharePoint consultant in New Caledonia. He is Cloud and Datacenter MVP and love to script and automate everything he does. He is the cofounder of the 'Microsoft Afterwork Noumea' in New Caledonia (with another MVP, Julien CHABLE) where he speaks about SharePoint, Office 365 and PowerShell automation. He writes articles on multiple subjects related to SharePoint, Office 365 and Powershell on his personal blog. ",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Sylver_SCHORGEN.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/jaredcatkinson"
+              "Twitter": "http://www.twitter.com/"
             }
           }
         },
         {
-          "SessionId": "SEC02",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "Secure your environment by automation",
+          "SessionId": "DEV2",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "Lean, Scrum and Low code approach of SharePoint and O365 projects",
           "Speaker": {
-            "Description": "Jaap Brasser is a Cloud and Automation Engineer and PowerShell MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, he speaks at technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines. As an active member of the PowerShell community he is part of the PowerShell Conference organization, he supports others by providing answers in forums, blogs about PowerShell & automation and he creates and shares PowerShell modules and functions.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Jaap.jpg?raw=true",
-            "Name": "Jaap Brasser",
+            "Name": "Sebastien Paulet",
+            "Description": "Sebastien has worked 12 years as consultant, dev, tech lead, project manager, trainer, team leader, speaker around SharePoint and O365 technologies and fond of topics around #documentation, #archiving, #lean, #scrum, #roi, #ergonomy",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Sebastien_PAULET.jpg?raw=true",
             "Social": {
-              "Blog": "jaapbrasser.com",
-              "Twitter": "http://www.twitter.com/jaap_brasser",
-              "Github": "github.com/jaapbrasser"
+              "Twitter": "http://www.twitter.com/Steve_MSFT"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV3",
+          "Time": "12:00 PM - 12:45 PM",
+          "Title": "Bot Framework with Microsoft Team",
+          "Speaker": {
+            "Name": "Senthamil Selvan",
+            "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Senthamil_V.jpg?raw=true",
+            "Social": {
+              "Blog": "http://altfo.wordpress.com",
+              "Twitter": "http://www.twitter.com/altfo"
+            }
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "01:00 PM - 01:45 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DEV4",
+          "Time": "02:00 PM - 02:45 PM",
+          "Title": "Accelerating development and business with Azure Containers",
+          "Speaker": {
+            "Name": "Malin De Silva",
+            "Description": "Malin De Silva is an Azure Solutions Consultant with experience on Azure, SharePoint and Office 365. Malin has spoken at different conferences and technical events within Sri Lanka and abroad. Also a blogger and a developer who has strong competency at hackathons.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Malin_De_Silva.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV5",
+          "Time": "03:00 PM - 03:45 PM",
+          "Title": "Accelerating development and business with Azure Containers",
+          "Speaker": {
+            "Name": "Fiqri Ismail",
+            "Description": "Fiqri is an Architect and Development Technologies MVP for 12 consecutive years. He authored the book '.NET Standard 2.0 Cookbook'. He is also a community leader, speaks at the Sri Lanka Developer Forum and writes articles on a variety of subjects on his personal blog.",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Fiqri_Ismail.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV6",
+          "Time": "04:00 PM - 04:45 PM",
+          "Title": "Using Graph API to read Outlook mail for Accounting",
+          "Speaker": {
+            "Name": "Hansamali Gamage",
+            "Description": "Hansamali Gamage is an experienced professional in .NET stack and a MVP from Developer Technologies. She is a frequent speaker at tech events and an award-winning writer on Microsoft Tech Net forum",
+            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Hansamali_Gamage.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/"
             }
           }
         },
         {
           "SessionId": "Common6",
-          "Time": "3:30 PM - 4:00 PM",
-          "Title": "Break"
-        },
-        {
-          "SessionId": "SEC03",
-          "Time": "4:00 PM - 5:00 PM",
-          "Title": "Automating any tasks with PowerShell and Friendly",
-          "Speaker": {
-            "Name": "Tomoya Yamanaka",
-            "Description": "Windows programmer and Japanese IT community Wankuma Alliance Manila director",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/tomoya.png?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/kumo203"
-            }
-          }
-        },
-        {
-          "SessionId": "SEC04",
-          "Time": "5:15 PM - 6:15 PM",
-          "Title": "Hybrid Lab Automation with Automated Lab",
-          "Speaker": {
-            "Name": "Jan-Hendrik Peters",
-            "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/JanPeters.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/NyanHP"
-            }
-          }
-        },
-        {
-          "SessionId": "Common8",
-          "Time": "6:15 PM - 6:30 PM",
-          "Title": "Day Close-up"
-        },
-        {
-          "SessionId": "Common9",
-          "Time": "6:30 PM - 10:00 PM",
-          "Title": "Networking Event - FREE BEER!!"
-        }
-      ]
-    },
-    {
-      "Day": "27 October 2017",
-      "Name": "Configuration Management",
-      "Sessions": [
-        {
-          "SessionId": "Common1",
-          "Time": "8:30 AM - 9:30 AM",
-          "Title": "Keynote: IT Transformation – Jeffrey Snover, Lead Architect for Azure Stack and Windows Server Software Defined Datacenter. Microsoft Technical Fellow. Inventor of PowerShell."
-        },
-        {
-          "SessionId": "Common2",
-          "Time": "9:45 AM - 10:45 AM",
-          "Title": "Automate & Configure at scale with Azure Management Services"
-        },
-        {
-          "SessionId": "Common3",
-          "Time": "11:00 AM - 12:00 PM",
-          "Title": "PowerShell 6, Community Platform for Hybrid Cloud"
-        },
-        {
-          "SessionId": "Common4",
-          "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
-        },
-        {
-          "SessionId": "MGT01",
-          "Time": "01:00 PM - 02:00 PM",
-          "Title": "Infrastructure as Code with Chef, Visual Studio Team Services and Azure",
-          "Speaker": {
-            "Name": "Stuart Preston",
-            "Description": "Stuart works at Chef focusing on the Microsoft ecosystem. Over a career spanning two decades he has helped enterprises of all shapes and sizes build scalable systems on the Microsoft platform. Stuart is a keen supporter of Chef and Microsoft Azure via his open-source contributions and he has also written a book 'Using Chef with Microsoft Azure.' He was awarded the Microsoft MVP (Azure) and Awesome Community Chef awards in 2016.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Stuart Preston.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/stuartpreston"
-            }
-          }
-        },
-        {
-          "SessionId": "MGT02",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "Infrastructure validation using Pester",
-          "Speaker": {
-            "Name": "Irwin Strachan",
-            "Description": "Irwin Strachan have been in IT some 20 years now, give or take. My specialty is Microsoft infrastructure. I’m passionate about Active Directory (and yes, you guessed, in the scripting thereof) and all of the components that come to play. With Windows 2012 R2, it’s all about PowerShell! So, join me in spreading the gospel of PowerShell!",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/IrwinStrachan.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/IrwinStrachan"
-            }
-          }
-        },
-        {
-          "SessionId": "Common6",
-          "Time": "3:30 PM - 4:00 PM",
-          "Title": "Break"
-        },
-        {
-          "SessionId": "MGT03",
-          "Time": "4:00 PM - 5:00 PM",
-          "Title": "How to deploy, use and administrate a Kubernetes cluster on Azure",
-          "Speaker": {
-            "Name": "Fabien Dibot",
-            "Description": "Azure architect @ Orange Business Services, I'm the only Ops in a 40 peeps team. My goal is to provide the best infra on Azure and automate them in order to bring continuous delivery. I'm also a Cloud and Datacenter MVP and co-leader of French PowerShell User Group.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/fabien.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/fdibot"
-            }
-          }
-        },
-        {
-          "SessionId": "MGT04",
-          "Time": "5:15 PM - 6:15 PM",
-          "Title": "DSC Scripting Challenge",
-          "Speaker": {
-            "Name": "Matthew Hitchcock",
-            "Description": "Matt is a Former PowerShell MVP and is a driving force behind the PowerShell Asia Conference ",
-            "ImageUrl": "~/images/matthnew.jpg",
-            "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "Common8",
-          "Time": "6:15 PM - 6:30 PM",
-          "Title": "Day Close-up"
-        },
-        {
-          "SessionId": "Common9",
-          "Time": "6:30 PM - 10:00 PM",
-          "Title": "Networking Event - FREE BEER!!"
-        }
-      ]
-    },
-    {
-      "Day": "27 October 2017",
-      "Name": "General Track",
-      "Sessions": [
-        {
-          "SessionId": "Common1",
-          "Time": "8:30 AM - 9:30 AM",
-          "Title": "Keynote: IT Transformation – Jeffrey Snover, Lead Architect for Azure Stack and Windows Server Software Defined Datacenter. Microsoft Technical Fellow. Inventor of PowerShell."
-        },
-        {
-          "SessionId": "Common2",
-          "Time": "9:45 AM - 10:45 AM",
-          "Title": "Automate & Configure at scale with Azure Management Services"
-        },
-        {
-          "SessionId": "Common3",
-          "Time": "11:00 AM - 12:00 PM",
-          "Title": "PowerShell 6, Community Platform for Hybrid Cloud"
-        },
-        {
-          "SessionId": "Common4",
-          "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
-        },
-        {
-          "SessionId": "GEN01",
-          "Time": "01:00 PM - 02:00 PM",
-          "Title": "PowerShell classes?",
-          "Speaker": {
-            "Name": "David das Neves",
-            "Description": "David is a former software developer and works now at Microsoft Germany as Premier Field Engineer with the main specialties: PowerShell, Windows 10 and Client Security. He is also focused in client workshops and dev requests. Beside his work he writes his own blog, organizes the PowerShell UG Munich and speaks at User Groups and Conferences on PS/Dev topics.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/david.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/david_das_neves"
-            }
-          }
-        },
-        {
-          "SessionId": "GEN02",
-          "Time": "2:15 PM - 3:15 PM",
-          "Title": "Knock, knock, knock - Linux at your door",
-          "Speaker": {
-            "Name": "Bartosz Bielawski",
-            "Description": "Bartosz (Bartek) Bielawski is a busy Windows engineer for Optiver, an international company. He loves PowerShell and automation and that love earned him the honour of Microsoft MVP. Author of the first PowerShell book in Polish “PowerShell 5.0 Biblia”, and co-author of the “PowerShell Deep Dives” book.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Bartek.png?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/bielawb"
-            }
-          }
-        },
-        {
-          "SessionId": "Common6",
-          "Time": "3:30 PM - 4:00 PM",
-          "Title": "Break"
-        },
-        {
-          "SessionId": "GEN03",
-          "Time": "4:00 PM - 5:00 PM",
-          "Title": "Working Faster & Smarter with PowerShell",
-          "Speaker": {
-            "Name": "Desmond Lee",
-            "Description": "Desmond LEE specializes in end-to-end enterprise infrastructure and innovative cloud solutions built around proven business processes, effective project team management and people integration across all C*-levels and various industries worldwide. Based in Zürich (Switzerland), he is recognized as a Microsoft Most Valuable Professional (MVP Office Servers & Services*) for his dedicated passion and volunteer work in the IT community. Desmond holds a MSc. from University College London (UCL) and is a SVEB certified trainer, coach and founder of the Swiss IT Pro User Group (www.swissitpro.ch), an independent, non-profit organization for IT Pros by IT Pros championing Microsoft and related technologies. An established speaker at major international and regional events known for his real-world insights with over 2 decades of hands-on experience, Desmond contributes frequently to several highly rated publications and often engages in popular Microsoft public forums/newsgroups. You can follow his IT adventures at www.leedesmond.com.* formally MVP Skype for Business / Lync Server",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": "http://www.twitter.com/_leedesmond"
-
-            }
-          }
-        },
-        {
-          "SessionId": "GEN04",
-          "Time": "5:15 PM - 6:15 PM",
-          "Title": "Dependencies, how to make them evident",
-          "Speaker": {
-            "Name": "Irwin Strachan",
-            "Description": "Irwin Strachan have been in IT some 20 years now, give or take. My specialty is Microsoft infrastructure. I’m passionate about Active Directory (and yes, you guessed, in the scripting thereof) and all of the components that come to play. With Windows 2012 R2, it’s all about PowerShell! So, join me in spreading the gospel of PowerShell!",
-            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/IrwinStrachan.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/IrwinStrachan"
-            }
-          }
-        },
-        {
-          "SessionId": "Common8",
-          "Time": "6:15 PM - 6:30 PM",
-          "Title": "Day Close-up"
-        },
-        {
-          "SessionId": "Common9",
-          "Time": "6:30 PM - 10:00 PM",
-          "Title": "Networking Event - FREE BEER!!"
+          "Time": "05:00 PM - 05:30 PM",
+          "Title": "Wrap up & Panel Discussion"
         }
       ]
     }
