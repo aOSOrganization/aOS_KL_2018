@@ -379,7 +379,11 @@
             "Description": "Hansamali Gamage is an experienced professional in .NET stack and a MVP from Developer Technologies. She is a frequent speaker at tech events and an award-winning writer on Microsoft Tech Net forum",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Hansamali_Gamage.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/hansamaligamage"
+              "Twitter": "http://www.twitter.com/hansamaligamage",
+              "Linkedin": "https://lk.linkedin.com/in/hansamali-gamage-37777a50",
+              "Blog": "http://hansamaligamage.blogspot.com/",
+              "Website": "https://social.technet.microsoft.com/profile/hansamaligamage/",
+              "Facebook": "https://www.facebook.com/hansamali.gamage"              
             }
           }
         },
