@@ -88,7 +88,11 @@
             "Description": "Vignesh Ganesan is a SharePoint and Office 365 Technical Manager holding 7.8 years of experience in various technologies such as SharePoint Server, Office 365 , Windows 10 and Cloud Security  . He's a big fan of Microsoft Cloud technologies and mainly focuses on Digital Transformation.As an IT professional Vignesh is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites and magazines.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Vignesh_Ganesan.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/sharepointnerd"
+              "Twitter": "http://www.twitter.com/sharepointnerd",
+              "Linkedin":"https://www.linkedin.com/in/vignesh-ganesan-mcp-mcitp-mcts-itil-v3-9246384a/",
+              "Blog": "https://vigneshsharepointthoughts.com/",
+              "Website":"https://vigneshsharepointthoughts.com/",
+              "Facebook": "https://www.facebook.com/vignesh.ganesan.14"
             }
           }
         },
