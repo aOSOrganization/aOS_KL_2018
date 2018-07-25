@@ -205,7 +205,10 @@
             "Description": "Rasheed is a Microsoft MVP on Azure from CodeSizzler who has worked with a number of MNCs.  He has a good command of Azure and emerging technologies.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Abdul_Rasheed_Feroz_Khan.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/TechFero"
+              "Twitter": "http://www.twitter.com/TechFero",
+              "Linkedin":"https://www.linkedin.com/in/abdul-rasheed-feroz-khan-72918a102/",
+              "Blog": "https://github.com/codesizzler",
+              "Facebook": "https://www.facebook.com/abdulrasheedferozkhan"
             }
           }
         },
