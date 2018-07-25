@@ -276,7 +276,11 @@
             "Description": "Kishore Chowdary is an International speaker who is also a Lead Training Associate in CodeSizzler. Kishore Chowdary is a part of C-Sharp Corner community where he shares his knowledge via articles and videos. He also speaks in local tech groups and he is also a part of Microsoft Azure Vidyapeeth in which he handles technical webinars for techies across the globe.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Kishore_Chowdary.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/kishore_1702"
+              "Twitter": "http://www.twitter.com/kishore_1702",
+              "Linkedin":"https://www.linkedin.com/in/kishore-chowdary-029a3710b",
+              "Blog": "https://www.c-sharpcorner.com/members/kishore-chowdary3",
+              "Website":"www.kishorechowdary.com",
+              "Facebook": "https://www.facebook.com/kishore.chowdary.9406"
             }
           }
         },
