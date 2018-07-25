@@ -208,6 +208,7 @@
               "Twitter": "http://www.twitter.com/TechFero",
               "Linkedin":"https://www.linkedin.com/in/abdul-rasheed-feroz-khan-72918a102/",
               "Blog": "https://github.com/codesizzler",
+              "Website":"http://codesizzler.in/",
               "Facebook": "https://www.facebook.com/abdulrasheedferozkhan"
             }
           }
@@ -239,8 +240,11 @@
             "Description": "Rene is a Microsoft Office Servers and Services MVP, working as a Solutions Architect (SharePoint, Office 365, Azure, AWS) in Singapore. For more than 10 years, Rene has lived and worked in Europe and Asia Pacific. The main focus of his work lies on SharePoint, Office 365, and Azure. He is generally interested in helping companies get more value out of their SharePoint and cloud investments.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Rene_Modery.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/Modery"
-            }
+              "Twitter": "http://www.twitter.com/Modery",
+              "Linkedin": "https://www.linkedin.com/in/modery/",
+              "Blog": "https://modery.net",
+              "Website": "https://modery.net"
+                       }
           }
         },
         {
