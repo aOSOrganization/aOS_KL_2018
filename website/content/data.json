@@ -167,7 +167,10 @@
             "Description": "Office Server and Services Microsoft MVP. 12 years as consultant, dev, tech lead, project manager, trainer, team leader, speaker around SharePoint/ O365 technologies, Scrum methodology and fond of topics around #documentation, #archiving, #lean, #scrum, #lowcode, #roi, #ergonomy and #rgpd.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Sebastien_PAULET.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/SP_twit"
+              "Twitter": "http://www.twitter.com/SP_twit",
+              "Linkedin": "https://fr.linkedin.com/in/sebpaulet",
+              "Blog": "https://sppublish.wordpress.com/",
+              "Website": "https://sppublish.wordpress.com/"
             }
           }
         },
