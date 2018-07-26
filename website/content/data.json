@@ -118,7 +118,12 @@
             "Description": "Patrick is both a MVP and RD. He has a 20+ years’ experience as Enterprise Solutions Architect. He has a successful track record of technical expertise for Office 365, SharePoint, SQL Server and Oracle RDBMS. He is a former Microsoft employee in France. He has been working for his own company Abalon, specialized on SharePoint and Office 365 for 7+ years.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Patrick_Guimonet.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/patricg"
+              "Twitter": "http://www.twitter.com/patricg",
+              "Linkedin":"https://www.linkedin.com/in/patrickguimonet/",
+              "Blog": "https://www.linkedin.com/in/patrickguimonet/detail/recent-activity/posts/",
+              "Website": "http://www.abalon-consulting.com",
+              "Facebook": "https://www.facebook.com/patrick.guimonet
+"
             }
           }
         },
@@ -329,7 +334,10 @@
             "Description": "Sebastien has worked 12 years as consultant, dev, tech lead, project manager, trainer, team leader, speaker around SharePoint and O365 technologies and fond of topics around #documentation, #archiving, #lean, #scrum, #roi, #ergonomy",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Sebastien_PAULET.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/SP_twit"
+              "Twitter": "http://www.twitter.com/SP_twit",
+              "Linkedin": "https://fr.linkedin.com/in/sebpaulet",
+              "Blog": "https://sppublish.wordpress.com/",
+              "Website": "https://sppublish.wordpress.com/"
             }
           }
         },
@@ -374,7 +382,9 @@
             "Description": "Fiqri is an Architect and Development Technologies MVP for 12 consecutive years. He authored the book '.NET Standard 2.0 Cookbook'. He is also a community leader, speaks at the Sri Lanka Developer Forum and writes articles on a variety of subjects on his personal blog.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Fiqri_Ismail.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/fiqriismail"
+              "Twitter": "http://www.twitter.com/fiqriismail",
+              "Linkedin": "https://www.linkedin.com/in/fiqriismail/",
+              "Facebook": "https://www.facebook.com/fiqriismail"     
             }
           }
         },
