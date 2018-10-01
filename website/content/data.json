@@ -316,7 +316,7 @@
         {
           "SessionId": "DEV1",
           "Time": "10:00 AM - 10:45 AM",
-          "Title": "Automating Processes with SharePoint, Flow and Teams",
+          "Title": "Let’s automate Office 365 with Azure Automation and PowerShell",
           "Speaker": {
             "Name": "Sylver SCHORGEN",
             "Description": "Sylver is an Office 365 and SharePoint consultant in New Caledonia. He is Cloud and Datacenter MVP and love to script and automate everything he does. He is the cofounder of the 'Microsoft Afterwork Noumea' in New Caledonia (with another MVP, Julien CHABLE) where he speaks about SharePoint, Office 365 and PowerShell automation. He writes articles on multiple subjects related to SharePoint, Office 365 and Powershell on his personal blog. ",
