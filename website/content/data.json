@@ -56,6 +56,12 @@
     },
     {
       "Name": "Fedelis",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Konfxlogo.png?raw=true",
+      "Link": "http://www.fedelis.com.my/",
+      "Category": ""
+    },
+    {
+      "Name": "Fedelis",
       "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Fedelis.png?raw=true",
       "Link": "http://www.fedelis.com.my/",
       "Category": ""
