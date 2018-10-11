@@ -91,6 +91,24 @@
       "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Jabrasm.jpg?raw=true",
       "Link": "https://www.jabra.com/",
       "Category": ""
+    },
+     {
+      "Name": "Kickle",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/kicklesm.png?raw=true",
+      "Link": "https://www.kickle.com/",
+      "Category": ""
+    },
+     {
+      "Name": "Plantronics",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/plantsm.png?raw=true",
+      "Link": "https://www.plantronics.com/sg/en/",
+      "Category": ""
+    },
+    {
+      "Name": "Smart Technologies",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/smartsm.png?raw=true",
+      "Link": "https://www.smarttech.com/sg/en/",
+      "Category": ""
     }
   ],
   "Prizes": [
