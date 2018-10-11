@@ -90,16 +90,13 @@
           "Time": "10:00 AM - 10:45 AM",
           "Title": "Transforming your organization into a Digital Workplace",
           "Speaker": {
-            "Name": "Vignesh Ganesan",
-            "Description": "Vignesh Ganesan is a SharePoint and Office 365 Technical Manager holding 7.8 years of experience in various technologies such as SharePoint Server, Office 365 , Windows 10 and Cloud Security  . He's a big fan of Microsoft Cloud technologies and mainly focuses on Digital Transformation.As an IT professional Vignesh is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites and magazines.",
+            "Name": "Chan Ming Man",
+            "Description": "Ming Man is Microsoft MVP since year 2006. He is a software development manager for a multinational company. With 29 years of experience in the IT field, he has developed system using Clipper, COBOL, VB5, VB6, VB.NET, Java and C #. He has been using Visual Studio (.NET) since the Beta back in year 2000.  He and the team have developed many projects using .NET platform supporting different key functional areas in the organizations such as engineering, sales, and marketing. ",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Vignesh_Ganesan.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/sharepointnerd",
-              "Linkedin":"https://www.linkedin.com/in/vignesh-ganesan-mcp-mcitp-mcts-itil-v3-9246384a/",
-              "Blog": "https://vigneshsharepointthoughts.com/",
-              "Website":"https://vigneshsharepointthoughts.com/",
-              "Facebook": "https://www.facebook.com/vignesh.ganesan.14"
-            }
+              "Linkedin":"https://www.linkedin.com/in/ming-man-chan-3a84099/",
+              "Blog": "https://chanmingman.wordpress.com/",
+                      }
           }
         },
         {
