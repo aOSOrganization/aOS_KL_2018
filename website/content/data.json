@@ -73,7 +73,14 @@
       "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Fedelis.png?raw=true",
       "Link": "http://www.fedelis.com.my/",
       "Category": ""
-    }
+    },
+    {
+      "Name": "Logitech",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Logitechsm.jpg?raw=true",
+      "Link": "https://www.logitech.com/en-my/",
+      "Category": ""
+    },
+    
   ],
   "Prizes": [
 
