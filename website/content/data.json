@@ -82,8 +82,14 @@
     },
     {
       "Name": "Ep-Tech",
-      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Ep-Tech.png?raw=true",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Ep-Tec.png?raw=true",
       "Link": "http://www.eptec.com/",
+      "Category": ""
+    },
+    {
+      "Name": "Jabra",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Jabrasm.jpg?raw=true",
+      "Link": "https://www.jabra.com/",
       "Category": ""
     },
     
