@@ -106,10 +106,16 @@
     },
     {
       "Name": "Smart Technologies",
-      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/smartsm.png?raw=true",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Smartsm.png?raw=true",
       "Link": "https://www.smarttech.com/sg/en/",
       "Category": ""
-    }
+    },
+     {
+      "Name": "UniQ Consulting",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/UniQ.png?raw=true",
+      "Link": "https:www.facebook.com/uniqcs/",
+      "Category": ""
+     }
   ],
   "Prizes": [
 
