@@ -94,13 +94,13 @@
     },
      {
       "Name": "Kickle",
-      "Image": "https://raw.githubusercontent.com/aOSOrganization/aOS_KL_2018/master/website/content/kicklesm.png",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Kicklesm.png?raw=true",
       "Link": "https://www.kickle.com/",
       "Category": ""
     },
      {
       "Name": "Plantronics",
-      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/plantsm.png?raw=true",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Plantsm.png?raw=true",
       "Link": "https://www.plantronics.com/sg/en/",
       "Category": ""
     },
