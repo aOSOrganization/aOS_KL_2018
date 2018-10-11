@@ -80,13 +80,7 @@
       "Link": "https://www.logitech.com/en-my/",
       "Category": ""
     },
-    {
-      "Name": "Ep-Tech",
-      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Ep-Tec.png?raw=true",
-      "Link": "http://www.eptec.com/",
-      "Category": ""
-    },
-    {
+     {
       "Name": "Jabra",
       "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Jabrasm.jpg?raw=true",
       "Link": "https://www.jabra.com/",
@@ -115,7 +109,13 @@
       "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/UniQ.png?raw=true",
       "Link": "https:www.facebook.com/uniqcs/",
       "Category": ""
-     }
+     },
+    {
+      "Name": "Ep-Tech",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Ep-Tec.png?raw=true",
+      "Link": "http://www.eptec.com/",
+      "Category": ""
+    }
   ],
   "Prizes": [
 
