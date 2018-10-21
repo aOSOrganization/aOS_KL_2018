@@ -11,7 +11,7 @@
   },
   "Callout": {
     "Text": "Sold Out !!",
-    "Link": "https://tinyurl.com/yb8dxcep",
+    "Link": "#",
     "Type": "warning"
   },
   "Campaigns": [
@@ -40,14 +40,28 @@
     },
     {
     "Name": "Rico Ho",
-    "Description": "Rico is a Lotus compete specialist that has helped businesses to migrate thousands of business applications to SharePoint using a low code cloud developer tool called Webparts360.",
+    "Description": "Rico Ho is the founder and developer of Webparts360, a low code applications development tool for SharePoint and Office 365. Being a Lotus Notes compete specialist, he has empowered many large companies IT teams to migrate thousands of business applications to SharePoint/Office 365. He has presented at 17 international conferences, sharing practical advice on workflow best practices and customer case studies.",
     "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Rico_Ho.jpg?raw=true",
     "Social": {
     "Twitter": "http://www.twitter.com/webparts360"
        }
+    },
+    {
+     "Name": "James Ooi",
+     "Description": "As a past MVP award winner for many years, James has 12 years’ experience working with Microsoft Core Infrastructure solutions, both On-Prem & Cloud Services.",
+     "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/James_Ooi.jpg?raw=true",
+      "Social": {
+      "Twitter": "http://www.twitter.com/jamesosw"
+      }
     }
   ],
   "Sponsors": [
+    {
+      "Name": "Fedelis",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Fedelis.png?raw=true",
+      "Link": "http://www.fedelis.com.my/",
+      "Category": ""
+    },
     {
       "Name": "Rhipe",
       "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/rhipe.png?raw=true",
@@ -55,9 +69,52 @@
       "Category": ""
     },
     {
-      "Name": "Fedelis",
-      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Fedelis.png?raw=true",
-      "Link": "http://www.fedelis.com.my/",
+      "Name": "UniQ Consulting",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/UniQsm.png?raw=true",
+      "Link": "https:www.facebook.com/uniqcs/",
+      "Category": ""
+     },
+    {
+      "Name": "Konfx",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Konfxlogo.png?raw=true",
+      "Link": "http://www.konfx.io/",
+      "Category": ""
+    },
+    {
+      "Name": "Jabra",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Jabrasm.jpg?raw=true",
+      "Link": "https://www.jabra.com/",
+      "Category": ""
+    },
+    {
+      "Name": "Logitech",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Logitechsm.jpg?raw=true",
+      "Link": "https://www.logitech.com/en-my/",
+      "Category": ""
+    },
+    {
+      "Name": "Plantronics",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Plantsm.png?raw=true",
+      "Link": "https://www.plantronics.com/sg/en/",
+      "Category": ""
+    },
+     {
+      "Name": "Smart Technologies",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Smartsm.png?raw=true",
+      "Link": "https://www.smarttech.com/sg/en/",
+      "Category": ""
+    },
+
+     {
+      "Name": "Kickle",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Kicklesm.png?raw=true",
+      "Link": "https://www.kickle.com/",
+      "Category": ""
+    },
+    {
+      "Name": "Ep-Tech",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Ep-Tec.png?raw=true",
+      "Link": "http://www.eptec.com/",
       "Category": ""
     }
   ],
@@ -82,14 +139,15 @@
         {
           "SessionId": "BUS1",
           "Time": "10:00 AM - 10:45 AM",
-          "Title": "Transforming your organization into a Digital Workplace",
+          "Title": "Digital Transformation in a nutshell",
           "Speaker": {
-            "Name": "Vignesh Ganesan",
-            "Description": "Vignesh Ganesan is a SharePoint and Office 365 Technical Manager holding 7.8 years of experience in various technologies such as SharePoint Server, Office 365 , Windows 10 and Cloud Security  . He's a big fan of Microsoft Cloud technologies and mainly focuses on Digital Transformation.As an IT professional Vignesh is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites and magazines.",
-            "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Vignesh_Ganesan.jpg?raw=true",
+            "Name": "Chan Ming Man",
+            "Description": "Ming Man is Microsoft MVP since year 2006. He is a software development manager for a multinational company. With 29 years of experience in the IT field, he has developed system using Clipper, COBOL, VB5, VB6, VB.NET, Java and C #. He has been using Visual Studio (.NET) since the Beta back in year 2000.  He and the team have developed many projects using .NET platform supporting different key functional areas in the organizations such as engineering, sales, and marketing. ",
+            "ImageUrl": "https://raw.githubusercontent.com/aOSOrganization/aOS_KL_2018/master/website/speakers/Mingman.jpg",
             "Social": {
-              "Twitter": "http://www.twitter.com/sharepointnerd"
-            }
+              "Linkedin":"https://www.linkedin.com/in/ming-man-chan-3a84099/",
+              "Blog": "https://chanmingman.wordpress.com/",
+                      }
           }
         },
         {
@@ -98,7 +156,7 @@
           "Title": "Delivering tangible business value with Office 365",
           "Speaker": {
             "Name": "Rico Ho",
-            "Description": "Rico is a Lotus compete specialist that has helped businesses to migrate thousands of business applications to SharePoint using a low code cloud developer tool called Webparts360.",
+            "Description": "Rico Ho is the founder and developer of Webparts360, a low code applications development tool for SharePoint and Office 365. Being a Lotus Notes compete specialist, he has empowered many large companies IT teams to migrate thousands of business applications to SharePoint/Office 365. He has presented at 17 international conferences, sharing practical advice on workflow best practices and customer case studies.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Rico_Ho.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/webparts360"
@@ -114,7 +172,12 @@
             "Description": "Patrick is both a MVP and RD. He has a 20+ years’ experience as Enterprise Solutions Architect. He has a successful track record of technical expertise for Office 365, SharePoint, SQL Server and Oracle RDBMS. He is a former Microsoft employee in France. He has been working for his own company Abalon, specialized on SharePoint and Office 365 for 7+ years.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Patrick_Guimonet.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/patricg"
+              "Twitter": "http://www.twitter.com/patricg",
+              "Linkedin":"https://www.linkedin.com/in/patrickguimonet/",
+              "Blog": "https://www.linkedin.com/in/patrickguimonet/detail/recent-activity/posts/",
+              "Website": "http://www.abalon-consulting.com",
+              "Facebook": "https://www.facebook.com/patrick.guimonet
+"
             }
           }
         },
@@ -155,10 +218,13 @@
           "Title": "All about documents in O365 and SharePoint",
           "Speaker": {
             "Name": "Sebastien Paulet",
-            "Description": "Sebastien has worked 12 years as consultant, dev, tech lead, project manager, trainer, team leader, speaker around SharePoint and O365 technologies and fond of topics around #documentation, #archiving, #lean, #scrum, #roi, #ergonomy",
+            "Description": "Office Server and Services Microsoft MVP. 12 years as consultant, dev, tech lead, project manager, trainer, team leader, speaker around SharePoint/ O365 technologies, Scrum methodology and fond of topics around #documentation, #archiving, #lean, #scrum, #lowcode, #roi, #ergonomy and #rgpd.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Sebastien_PAULET.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/SP_twit"
+              "Twitter": "http://www.twitter.com/SP_twit",
+              "Linkedin": "https://fr.linkedin.com/in/sebpaulet",
+              "Blog": "https://sppublish.wordpress.com/",
+              "Website": "https://sppublish.wordpress.com/"
             }
           }
         },
@@ -205,7 +271,11 @@
             "Description": "Rasheed is a Microsoft MVP on Azure from CodeSizzler who has worked with a number of MNCs.  He has a good command of Azure and emerging technologies.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Abdul_Rasheed_Feroz_Khan.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/TechFero"
+              "Twitter": "http://www.twitter.com/TechFero",
+              "Linkedin":"https://www.linkedin.com/in/abdul-rasheed-feroz-khan-72918a102/",
+              "Blog": "https://github.com/codesizzler",
+              "Website":"http://codesizzler.in/",
+              "Facebook": "https://www.facebook.com/abdulrasheedferozkhan"
             }
           }
         },
@@ -236,8 +306,11 @@
             "Description": "Rene is a Microsoft Office Servers and Services MVP, working as a Solutions Architect (SharePoint, Office 365, Azure, AWS) in Singapore. For more than 10 years, Rene has lived and worked in Europe and Asia Pacific. The main focus of his work lies on SharePoint, Office 365, and Azure. He is generally interested in helping companies get more value out of their SharePoint and cloud investments.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Rene_Modery.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/Modery"
-            }
+              "Twitter": "http://www.twitter.com/Modery",
+              "Linkedin": "https://www.linkedin.com/in/modery/",
+              "Blog": "https://modery.net",
+              "Website": "https://modery.net"
+                       }
           }
         },
         {
@@ -249,7 +322,10 @@
             "Description": "Manoj is a passionate IT Professional who has over 9 years of experience in Microsoft technology stack mainly in SharePoint, Windows Server and Office 365. He has experienced 4 generations of SharePoint. Being a MVP under Office Servers and Services category, he is very passionate about community works. Actively engaged in volunteer speaking events in Sri Lanka, Singapore, USA and the president, organizer and a speaker of Brunei Cloud user Group.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Manoj_V_Karunarathne.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/manojviduranga"
+              "Twitter": "http://www.twitter.com/manojviduranga",
+              "Linkedin": "https://www.linkedin.com/in/manoj-karunarathne-83901726/",
+              "Blog": "https://manojviduranga.wordpress.com/",
+              "Facebook": "https://www.facebook.com/manojviduranga"
             }
           }
         },
@@ -262,7 +338,11 @@
             "Description": "Kishore Chowdary is an International speaker who is also a Lead Training Associate in CodeSizzler. Kishore Chowdary is a part of C-Sharp Corner community where he shares his knowledge via articles and videos. He also speaks in local tech groups and he is also a part of Microsoft Azure Vidyapeeth in which he handles technical webinars for techies across the globe.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Kishore_Chowdary.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/kishore_1702"
+              "Twitter": "http://www.twitter.com/kishore_1702",
+              "Linkedin":"https://www.linkedin.com/in/kishore-chowdary-029a3710b",
+              "Blog": "https://www.c-sharpcorner.com/members/kishore-chowdary3",
+              "Website":"www.kishorechowdary.com",
+              "Facebook": "https://www.facebook.com/kishore.chowdary.9406"
             }
           }
         },
@@ -290,13 +370,15 @@
         {
           "SessionId": "DEV1",
           "Time": "10:00 AM - 10:45 AM",
-          "Title": "Automating Processes with SharePoint, Flow and Teams",
+          "Title": "Let’s automate Office 365 with Azure Automation and PowerShell",
           "Speaker": {
             "Name": "Sylver SCHORGEN",
             "Description": "Sylver is an Office 365 and SharePoint consultant in New Caledonia. He is Cloud and Datacenter MVP and love to script and automate everything he does. He is the cofounder of the 'Microsoft Afterwork Noumea' in New Caledonia (with another MVP, Julien CHABLE) where he speaks about SharePoint, Office 365 and PowerShell automation. He writes articles on multiple subjects related to SharePoint, Office 365 and Powershell on his personal blog. ",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Sylver_SCHORGEN.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/sylver_schorgen"
+              "Twitter": "http://www.twitter.com/sylver_schorgen",
+              "Linkedin": "https://www.linkedin.com/in/sylverschorgen/",
+              "Blog": "https://microsofttouch.fr/default/b/sylver/"             
             }
           }
         },
@@ -309,7 +391,10 @@
             "Description": "Sebastien has worked 12 years as consultant, dev, tech lead, project manager, trainer, team leader, speaker around SharePoint and O365 technologies and fond of topics around #documentation, #archiving, #lean, #scrum, #roi, #ergonomy",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Sebastien_PAULET.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/SP_twit"
+              "Twitter": "http://www.twitter.com/SP_twit",
+              "Linkedin": "https://fr.linkedin.com/in/sebpaulet",
+              "Blog": "https://sppublish.wordpress.com/",
+              "Website": "https://sppublish.wordpress.com/"
             }
           }
         },
@@ -354,7 +439,9 @@
             "Description": "Fiqri is an Architect and Development Technologies MVP for 12 consecutive years. He authored the book '.NET Standard 2.0 Cookbook'. He is also a community leader, speaks at the Sri Lanka Developer Forum and writes articles on a variety of subjects on his personal blog.",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Fiqri_Ismail.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/fiqriismail"
+              "Twitter": "http://www.twitter.com/fiqriismail",
+              "Linkedin": "https://www.linkedin.com/in/fiqriismail/",
+              "Facebook": "https://www.facebook.com/fiqriismail"     
             }
           }
         },
@@ -367,7 +454,11 @@
             "Description": "Hansamali Gamage is an experienced professional in .NET stack and a MVP from Developer Technologies. She is a frequent speaker at tech events and an award-winning writer on Microsoft Tech Net forum",
             "ImageUrl": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/speakers/Hansamali_Gamage.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/hansamaligamage"
+              "Twitter": "http://www.twitter.com/hansamaligamage",
+              "Linkedin": "https://lk.linkedin.com/in/hansamali-gamage-37777a50",
+              "Blog": "http://hansamaligamage.blogspot.com/",
+              "Website": "https://social.technet.microsoft.com/profile/hansamaligamage/",
+              "Facebook": "https://www.facebook.com/hansamali.gamage"              
             }
           }
         },
